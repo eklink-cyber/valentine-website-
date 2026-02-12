@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://www.youtube.com/watch?v=zJBoTO6vZCc", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dglb4gh1a/video/upload/v1770921136/Tatu_-_All_The_Things_She_Said_Lyrics_Running_through_my_head_z2kk9r.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
